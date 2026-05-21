@@ -1,0 +1,8 @@
+board:
+  name: cocolinx_shield
+  full_name: nRF9151 Shield
+  vendor: cocolinx
+  socs:
+  - name: nrf9151
+    variants:
+    - name: 'ns'
